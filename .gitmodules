@@ -1,0 +1,3 @@
+[submodule "ADUVC"]
+	path = ADUVC
+	url = https://github.com/areaDetector/ADUVC.git
